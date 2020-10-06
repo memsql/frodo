@@ -1,0 +1,15 @@
+venv*
+virtualenv*
+.vscode
+.idea
+**/__pycache__
+*.log
+**.pyc
+*.egg-info
+.eggs
+Pipfile
+build
+dist
+.tox
+typescript
+
