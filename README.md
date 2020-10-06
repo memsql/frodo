@@ -11,7 +11,7 @@ We recommend you use a Python virtual environment to run this tool:
 
 ```bash
 virtualenv --python=python3 venv
-source .venv/bin/activate
+source venv/bin/activate
 pip install --editable .
 pip install '.[dev]'  # optional: installs development dependencies
 ```
